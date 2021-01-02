@@ -1,10 +1,13 @@
 # Karagedon からあげどん
 Karagedon(https://karagedon.com)は東京都市大学専用の大学非公認マストドンインスタンスです。
+# Karagedon
+
+The Mastodon instance for Tokyo City University
+
+[https://karagedon.com](https://karagedon.com)
 
 
 ![Mastodon](https://i.imgur.com/NhZc40l.png)
-========
-
 [![GitHub release](https://img.shields.io/github/release/tootsuite/mastodon.svg)][releases]
 [![Build Status](https://img.shields.io/circleci/project/github/tootsuite/mastodon.svg)][circleci]
 [![Code Climate](https://img.shields.io/codeclimate/maintainability/tootsuite/mastodon.svg)][code_climate]
