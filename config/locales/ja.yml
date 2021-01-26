@@ -822,19 +822,19 @@ ja:
   domain_validator:
     invalid_domain: は無効なドメイン名です
   errors:
-    '400': 送信されたリクエストは無効であるか、または不正なフォーマットです。
-    '403': このページを表示する権限がありません。
-    '404': お探しのページは見つかりませんでした。
-    '406': このページは要求された形式では利用できません。
-    '410': お探しのページはもう存在しません。
+    '400': 送信されたリクエストは無効であるか、または不正なフォーマットです。<br><strong><a href="https://karagedon.com">ホームに戻る</a></strong>
+    '403': このページを表示する権限がありません。<br><strong><a href="https://karagedon.com">ホームに戻る</a></strong>
+    '404': お探しのページは見つかりませんでした。<br><strong><a href="https://karagedon.com">ホームに戻る</a></strong>
+    '406': このページは要求された形式では利用できません。<br><strong><a href="https://karagedon.com">ホームに戻る</a></strong>
+    '410': お探しのページはもう存在しません。<br><strong><a href="https://karagedon.com">ホームに戻る</a></strong>
     '422':
       content: セキュリティ認証に失敗しました。Cookieをブロックしていませんか？
       title: セキュリティ認証に失敗
     '429': リクエストの制限に達しました
     '500':
-      content: もうしわけありませんが、なにかが間違っています。
+      content: もうしわけありませんが、なにかが間違っています。<br>しばらく経っても復旧しない場合は<a href="mailto:%{email}">%{email}</a> までご報告下さい。
       title: このページは正しくありません
-    '503': 一時的なサーバー障害のため利用することができません。
+      '503': 一時的なサーバー障害のため利用することができません。<br>しばらく経っても復旧しない場合は<a href="mailto:%{email}">%{email}</a> までご報告下さい。
     noscript_html: Mastodonのウェブアプリケーションを利用する場合はJavaScriptを有効にしてください。またはあなたのプラットフォーム向けの<a href="%{apps_path}">Mastodonネイティブアプリ</a>を探すことができます。
   existing_username_validator:
     not_found: そのようなユーザー名はローカルに見つかりませんでした
